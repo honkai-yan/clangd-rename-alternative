@@ -2,7 +2,7 @@
 
 ## 用法
 
-将ccc.ps1复制到c/c++项目根目录，然后将"CMakeList.txt"的内容粘贴到项目根CMakeLists.txt里
+将ccc.ps1复制到c/c++项目根目录，然后将"CMakeList.txt"的内容粘贴到项目根CMakeLists.txt里（project命令前）
 
 根据需要更改ccc.ps1中的compile_commands.json的路径。
 
